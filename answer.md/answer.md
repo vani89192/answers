@@ -1,5 +1,3 @@
-# answer.md
-
 ## Q1. Role of Frontend (FE)
 
 Frontend is the part of a web application that users directly see on their screen. It focuses on appearance and user experience.
@@ -11,7 +9,7 @@ Frontend is the part of a web application that users directly see on their scree
 
 Basically, frontend is everything the user interacts with on a website.
 
----
+
 
 ## Q2. Role of Backend (BE)
 
@@ -24,7 +22,7 @@ Backend is the part of a web application that works in the background. Users do 
 
 Backend acts like the control system of the application.
 
----
+
 
 ## Q3. Business Logic
 
@@ -43,7 +41,7 @@ Business Logic means the rules that decide how an application should behave. The
 
 Business logic makes sure the system works correctly according to rules.
 
----
+
 
 ## Q4. Client–Server Model
 
@@ -58,7 +56,7 @@ Client → Request → Server → Response → Client
 
 This model helps in smooth data exchange.
 
----
+
 
 ## Q5. Three-Tier Architecture
 
@@ -84,7 +82,7 @@ Three-tier architecture divides a web application into three layers.
 * Better security.
 * Improved scalability.
 
----
+
 
 ## Q6. JavaScript as a Backend Language
 
@@ -96,6 +94,4 @@ JavaScript is also used on the backend side of web applications.
 
 Using JavaScript on both frontend and backend makes development easier.
 
----
 
-***End of Assignment***
